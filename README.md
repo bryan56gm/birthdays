@@ -42,3 +42,5 @@ La aplicación permite a los usuarios:
    
 7. **La aplicación estará disponible en:**
    [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
+
+![Flask Birthdays](https://raw.githubusercontent.com/bryan56gm/birthdays/main/preview.jpg)
